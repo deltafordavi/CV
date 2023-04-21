@@ -14,3 +14,9 @@ Extensión de las Experiencias Laborales en el Curriculum
 *Desarrollo de modelos Eléctricos*
 ### [Asistente de Investigación. Grupo HIDRUS  (Universidad de Salamanca), Salamanca, Junio - Septiembre de 2016](.AsistentedeInvestigación.md)
 *Asistencia técnica en tratamiento de datos*
+
+
+## Temporal Index
+
+
+### [Research Assistant. HIDRUS research group (University of Salamanca), Salamanca, Spain, June - September 2016](.ResearchAssistent.md)
