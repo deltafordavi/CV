@@ -23,8 +23,7 @@ Work experiences extended.
 
 *Beginning from more recent*
 
-### [Digital Data Analyst, CHEP UK&I Ltd, Manchester UK, January 2021 - October 2022](
-.DigitalDataAnalyst.md)
+### [Digital Data Analyst, CHEP UK&I Ltd, Manchester UK, January 2021 - October 2022](.DigitalDataAnalyst.md)
 
 ### [Data Analyst, SteamaCo, Manchester, July 2018 – October 2020](.DataAnalyst.md)
 
