@@ -23,8 +23,11 @@ Work experiences extended.
 
 *Beginning from more recent*
 
+### [Digital Data Analyst, CHEP UK&I Ltd, Manchester UK, January 2021 - October 2022](
+.DigitalDataAnalyst.md)
+
 ### [Data Analyst, SteamaCo, Manchester, July 2018 – October 2020](.DataAnalyst.md)
-### [Digital Data Analyst, CHEP UK&I Ltd, Manchester UK, January 2021 - October 2022](DigitalDataAnalyst.md)
+
 
 ### [Software Developer Assistant (Internship). BISITE research group (University of Salamanca),Salamanca, Spain, January – October 2017](.SoftwareDeveloperAssistant.md)
 
