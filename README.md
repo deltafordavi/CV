@@ -15,8 +15,17 @@ Extensión de las Experiencias Laborales en el Curriculum
 ### [Asistente de Investigación. Grupo HIDRUS  (Universidad de Salamanca), Salamanca, Junio - Septiembre de 2016](.AsistentedeInvestigación.md)
 *Asistencia técnica en tratamiento de datos*
 
+# Work Experience
+
+Work experiences extended.
 
 ## Temporal Index
 
+*Beginning from more recent*
+
+### [Data Analyst, SteamaCo, Manchester, July 2018 – October 2020](.DataAnalyst.md)
+### [Digital Data Analyst, CHEP UK&I Ltd, Manchester UK, January 2021 - October 2022](DigitalDataAnalyst.md)
+
+### [Software Developer Assistant (Internship). BISITE research group (University of Salamanca),Salamanca, Spain, January – October 2017](.SoftwareDeveloperAssistant.md)
 
 ### [Research Assistant. HIDRUS research group (University of Salamanca), Salamanca, Spain, June - September 2016](.ResearchAssistent.md)
