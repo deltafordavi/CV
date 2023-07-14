@@ -5,7 +5,8 @@ Extensión de las Experiencias Laborales en el Curriculum
 ## Índice Temporal 
 
 *De más moderno a más antiguo*
-
+### [Data Engineer, Quental, Madrid/Remoto, ,España, Desde Mayo 2022](.DataEngineer.md)
+*Migración de Procesos y Bases de Datos en contexto Big Data*
 ### [Analista de Datos Digitales , CHEP UK&I Ltd, Manchester, Reino Unido, Enero 2021 - Noviembre 2022](.AnalistadeDatosDigitales.md)
 *Análisis y modelización en contexto Big Data*
 ### [Analista de Datos, SteamaCo, Manchester, Reino Unido, Julio 2018 - Diciembre 2020](.AnalistadeDatos.md)
